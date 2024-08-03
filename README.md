@@ -1,4 +1,4 @@
 # firstrepo
 This is my first repository
 <br>
-author-Shaikh Wahid
+author-Shaikh Wahid (me)
